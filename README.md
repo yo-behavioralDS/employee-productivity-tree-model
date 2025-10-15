@@ -26,7 +26,3 @@ The Decision Tree visualization revealed that **'Incentive'** (financial motivat
 
 ## Conclusions
 These findings imply that improving incentive structures and optimizing task scheduling could meaningfully enhance employee productivity within garment manufacturing teams.
-
----
-The Decision Tree model
-[def]: decision_tree.png
